@@ -18,38 +18,22 @@ Tired of clicking links one by one. You are at right place. Auto click almost an
 
 Do you have any question check below
 
-```markdown
-Q1. Why extension stop working and start showing only 0 clicks left? 
+# Q1. Why extension stop working and start showing only 0 clicks left? 
 Ans: Whenever there is an update on Socia Trade site we deactivate extension temporarily and enable again after verifying the same. So It's temporary deactivation only.
-```
-```markdown
-Q2. Why no reply to mail.
+# Q2. Why no reply to mail.
 Ans: We are getting so many emails and unable to reply to all users. Sorry for that.
-```
-```markdown
-Q3. How can we come to know is there any update?
+# Q3. How can we come to know is there any update?
 Ans: For that purpose only I have created Facebook[https://www.facebook.com/dhruv.techapps] and Google+[https://plus.google.com/u/0/communities/113134525131140686298] Community you can watch for a post for the latest update there.
-```
-```markdown
-Q4: What is timing for a reply?
+# Q4: What is timing for a reply?
 Ans: We are working on this from 8:00 PM to 11:00 PM daily to complete your request.
-```
-```markdown
-Q5: When full version will be released?
+# Q5: When full version will be released?
 Ans: Full version is available. To get the full version contact me on below given details.
-```
-```markdown
-Q6: when Mobile version is coming?
+# Q6: when Mobile version is coming?
 Ans: We had already sent our code for publishing and it was in the queue but before that itself due to changes in the server we need to republish and yes we will be in a longer queue again.
-```
-```markdown
-Q7: Why Google Chrome disable/remove your extension
+# Q7: Why Google Chrome disable/remove your extension
 Ans: Its available on webstore now, check above link. 
-```
-```markdown
-Q8: Why waiting time is not reduced less than 30 secs.
+# Q8: Why waiting time is not reduced less than 30 secs.
 Ans: It's for good reason only. I see the only way ST can track down your work is scripted is based on time between two clicks.
-```
 
 ### Support or Contact
 
