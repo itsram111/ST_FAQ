@@ -4,8 +4,15 @@ You can use the [editor on GitHub](https://github.com/Dhruv-Techapps/ST_FAQ/edit
 
 Tired of clicking links one by one. You are at right place. Auto click almost anything you can suggest any site where you need extension to auto click and we will provide you full version of that extension for free.
 
+### To install ST auto click extension ♥ [click me](https://goo.gl/PAZ47v) ♥
 
-### To install ST auto click extension [click me](https://goo.gl/PAZ47v)
+## Version 2.2
+
+## Features
+- iMacro mode
+- Random waiting time from [31-35] & [31-40]
+- Disable add popup
+- Simualtaneously work on multiple account in Incognito mode
 
 ### FAQ
 
@@ -47,6 +54,6 @@ Ans: It's for good reason only. I see the only way ST can track down your work i
 ### Support or Contact
 
 Having trouble with Extension?
-[Gmail](mailto:dhruv.techapps@gmail.com), 
-[Hangout](dhruv.techapps@gmail.com), and
-[Facebook](https://www.facebook.com/dhruv.techapps) and we’ll help you sort it out.
+♠ [Gmail](mailto:dhruv.techapps@gmail.com), 
+♠ [Hangout](dhruv.techapps@gmail.com), and
+♠ [Facebook](https://www.facebook.com/dhruv.techapps) and we’ll help you sort it out.
