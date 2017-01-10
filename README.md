@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to Social Trade Auto Click Links FAQ Pages
 
 You can use the [editor on GitHub](https://github.com/Dhruv-Techapps/ST_FAQ/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tired of clicking links one by one. You are at right place. Auto click almost anything you can suggest any site where you need extension to auto click and we will provide you full version of that extension for free.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### To install ST auto click extension [click me](https://goo.gl/PAZ47v)
+
+### FAQ
+
+Do you have any question check below
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Q1. Why extension stop working and start showing only 0 clicks left? 
+Ans: Whenever there is an update on Socia Trade site we deactivate extension temporarily and enable again after verifying the same. So It's temporary deactivation only.
+- Q2. Why no reply to mail.
+Ans: We are getting so many emails and unable to reply to all users. Sorry for that.
+- Q3. How can we come to know is there any update?
+Ans: For that purpose only I have created Facebook[https://www.facebook.com/dhruv.techapps] and Google+[https://plus.google.com/u/0/communities/113134525131140686298] Community you can watch for a post for the latest update there.
+- Q4: What is timing for a reply?
+Ans: We are working on this from 8:00 PM to 11:00 PM daily to complete your request.
+- Q5: When full version will be released?
+Ans: For now we haven't provided a full version to anyone. But soon it will happen.
+- Q6: when Mobile version is coming?
+Ans: We had already sent our code for publishing and it was in the queue but before that itself due to changes in the server we need to republish and yes we will be in a longer queue again.
+- Q7: Why Google Chrome disable/remove your extension
+Ans: As it's not from webstore Google chrome removing that extension. And It's not easy to put the extension on Google Chrome. we have to buy the license for it. The temporary solution you can install the extension in UC Browser, Chromium browser.
+- Q8: Why waiting time is not reduced less than 30 secs.
+Ans: It's for good reason only. I see the only way ST can track down your work is scripted is based on time between two clicks.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dhruv-Techapps/ST_FAQ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Extension? 
+[Gmail](mailto:dhruv.techapps@gmail.com)
+[Hangout](dhruv.techapps@gmail.com)
+[Facebook](https://www.facebook.com/dhruv.techapps) and we’ll help you sort it out.
