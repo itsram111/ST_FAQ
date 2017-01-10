@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Dhruv-Techapps/ST_FAQ/edit
 
 Tired of clicking links one by one. You are at right place. Auto click almost anything you can suggest any site where you need extension to auto click and we will provide you full version of that extension for free.
 
-### To install ST auto click extension ♥ [click me](https://goo.gl/PAZ47v) ♥
+### Want the extension? ♥ [CLICK ME](https://goo.gl/PAZ47v) ♥
 
 ## Version 2.2
 
