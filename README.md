@@ -46,7 +46,7 @@ Ans: It's for good reason only. I see the only way ST can track down your work i
 
 ### Support or Contact
 
-Having trouble with Extension? 
-[Gmail](mailto:dhruv.techapps@gmail.com)
-[Hangout](dhruv.techapps@gmail.com)
+Having trouble with Extension?\n
+[Gmail](mailto:dhruv.techapps@gmail.com)\n
+[Hangout](dhruv.techapps@gmail.com)\n
 [Facebook](https://www.facebook.com/dhruv.techapps) and we’ll help you sort it out.
