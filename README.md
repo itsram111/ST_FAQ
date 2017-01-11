@@ -17,22 +17,32 @@ Tired of clicking links one by one. You are at right place. Auto click almost an
 ### FAQ
 
 Do you have any question check below
-
-# Q1. Why extension stop working and start showing only 0 clicks left? 
+# Q1. Latest extension is not working? 
+Ans: Please check if chrome have disabled popup message from social trade for it.
+1. On your computer, open Chrome.
+2. At the top right, click More More.
+3. Click Settings.
+4. At the bottom, click Show advanced settings.
+5. Under "Privacy," click Content settings.
+6. Under "Pop-ups," select an option:
+  - Do not allow any site to show pop-ups (recommended)
+  - Allow all sites to show pop-ups 
+Refer Link: https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=en
+# Q2. Why extension stop working and start showing only 0 clicks left? 
 Ans: Whenever there is an update on Socia Trade site we deactivate extension temporarily and enable again after verifying the same. So It's temporary deactivation only.
-# Q2. Why no reply to mail.
+# Q3. Why no reply to mail.
 Ans: We are getting so many emails and unable to reply to all users. Sorry for that.
-# Q3. How can we come to know is there any update?
+# Q4. How can we come to know is there any update?
 Ans: For that purpose only I have created Facebook[https://www.facebook.com/dhruv.techapps] and Google+[https://plus.google.com/u/0/communities/113134525131140686298] Community you can watch for a post for the latest update there.
-# Q4: What is timing for a reply?
+# Q5: What is timing for a reply?
 Ans: We are working on this from 8:00 PM to 11:00 PM daily to complete your request.
-# Q5: When full version will be released?
+# Q6: When full version will be released?
 Ans: Full version is available. To get the full version contact me on below given details.
-# Q6: when Mobile version is coming?
+# Q7: when Mobile version is coming?
 Ans: We had already sent our code for publishing and it was in the queue but before that itself due to changes in the server we need to republish and yes we will be in a longer queue again.
-# Q7: Why Google Chrome disable/remove your extension
+# Q8: Why Google Chrome disable/remove your extension
 Ans: Its available on webstore now, check above link. 
-# Q8: Why waiting time is not reduced less than 30 secs.
+# Q9: Why waiting time is not reduced less than 30 secs.
 Ans: It's for good reason only. I see the only way ST can track down your work is scripted is based on time between two clicks.
 
 ### Support or Contact
