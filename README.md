@@ -19,7 +19,8 @@ Tired of clicking links one by one. You are at right place. Auto click almost an
 Do you have any question check below
 
 ## Q. Latest extension is not working? 
-Ans: Please check if chrome have disabled popup message from social trade for it.[Enable Popup](https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=en)
+Ans: Please check if chrome have disabled popup message from social trade for it [Enable Popup](https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=en).
+```
 1. On your computer, open Chrome.
 2. At the top right, click More More.
 3. Click Settings.
@@ -28,7 +29,7 @@ Ans: Please check if chrome have disabled popup message from social trade for it
 6. Under "Pop-ups," select an option:
   - Do not allow any site to show pop-ups (recommended)
   - Allow all sites to show pop-ups 
-
+```
 
 ## Q. Why its not clicking next link after waiting time 0?
 Ans: After waiting time complete software waits for the response from ST server. If the server is slow it may wait for few more secs to complete the task until ST server reponds back.
