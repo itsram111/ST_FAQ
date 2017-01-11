@@ -41,7 +41,7 @@ Ans: Whenever there is an update on Socia Trade site we deactivate extension tem
 Ans: We are getting so many emails and unable to reply to all users. Sorry for that.
 
 ## Q. How can we come to know is there any update?
-Ans: For that purpose only I have created Facebook[https://www.facebook.com/dhruv.techapps] and Google+[https://plus.google.com/u/0/communities/113134525131140686298] Community you can watch for a post for the latest update there.
+Ans: For that purpose only I have created [Facebook](https://www.facebook.com/dhruv.techapps) and [Google+](https://plus.google.com/u/0/communities/113134525131140686298) Community you can watch for a post for the latest update there.
 
 ## Q: What is timing for a reply?
 Ans: We are working on this from 8:00 PM to 11:00 PM daily to complete your request.
