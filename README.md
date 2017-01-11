@@ -14,6 +14,10 @@ Tired of clicking links one by one. You are at right place. Auto click almost an
 - Disable add popup
 - Simualtaneously work on multiple account in Incognito mode
 
+## Upccoming Features
+- Setting alarm to auto start work even if you are not around.
+
+
 ### FAQ
 
 Do you have any question check below
