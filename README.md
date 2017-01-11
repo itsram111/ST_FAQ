@@ -28,6 +28,7 @@ Ans: Please check if chrome have disabled popup message from social trade for it
   - Do not allow any site to show pop-ups (recommended)
   - Allow all sites to show pop-ups 
 Refer Link: https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=en
+
 ## Q. Why its not clicking next link after waiting time 0?
 Ans: After waiting time complete software waits for the response from ST server. If the server is slow it may wait for few more secs to complete the task until ST server reponds back.
 ## Q. Why extension stop working and start showing only 0 clicks left? 
