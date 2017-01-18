@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/Dhruv-Techapps/ST_FAQ/edit
 
 Tired of clicking links one by one. You are at right place. Auto click almost anything you can suggest any site where you need extension to auto click and we will provide you full version of that extension for free.
 
-### Want the extension? ♥ [CLICK ME](https://goo.gl/PAZ47v) ♥
-
+### Want Chrome extension ♥ [CLICK ME](https://goo.gl/PAZ47v) ♥
+### Here is mobile App ♥ [CLICK ME](https://goo.gl/PAZ47v) ♥
 ## Version 2.3
 
 ## Features
