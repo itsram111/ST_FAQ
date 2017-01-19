@@ -1,1 +1,1 @@
-{"dsf":1,"dsc":25,"dsa":{"m":"Mobile app is available on google play store","i":"icon_128","t":"Information","u":"https://play.google.com/store/apps/details?id=com.techapps.dhruv.socialtradeautoclick"},"msf":1,"msc":25,"msa":"","r":0,"rm":{"m":"","i":"","t":"Alert"}}
+{"dsf":1,"dsc":25,"dsa":{"m":"Mobile app is available on google play store","i":"ic_launcher","t":"Information","u":"https://play.google.com/store/apps/details?id=com.techapps.dhruv.socialtradeautoclick"},"msf":1,"msc":25,"msa":"","r":0,"rm":{"m":"","i":"","t":"Alert"}}
